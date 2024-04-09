@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BDD Test Suite" verbose="1">
+    <test name="LexisNexis">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="accessibilityTest" value="no"/>
+        <classes>
+            <class name="runnerClass.RunTests"/>
+        </classes>
+    </test>
+</suite>

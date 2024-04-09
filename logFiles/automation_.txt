@@ -1,0 +1,719 @@
+2024-04-09 02:22:12 INFO  stepDefs:264 - driver check :false
+2024-04-09 02:22:15 INFO  homePage:43 - checking :[[RemoteWebDriver: chrome on any (4f2316f5fa62fc4f88e2ff0fda610f81)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:22:15 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (4f2316f5fa62fc4f88e2ff0fda610f81)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:22:15 INFO  uiActions:82 - Element displayed found
+2024-04-09 02:22:15 INFO  homePage:47 - Element displayed & clickable
+2024-04-09 02:23:25 INFO  stepDefs:264 - driver check :false
+2024-04-09 02:23:28 INFO  homePage:43 - checking :[[RemoteWebDriver: chrome on any (c7027c8178bf8d10e848750d1491f928)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:23:28 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c7027c8178bf8d10e848750d1491f928)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:23:28 INFO  uiActions:82 - Element displayed found
+2024-04-09 02:23:28 INFO  homePage:47 - Element displayed & clickable
+2024-04-09 02:38:10 INFO  stepDefs:264 - driver check :false
+2024-04-09 02:38:14 INFO  homePage:43 - checking :[[RemoteWebDriver: chrome on any (55b9a64178068960813f7d7180a79c2f)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:38:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (55b9a64178068960813f7d7180a79c2f)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:38:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 02:38:14 INFO  homePage:47 - Element displayed & clickable
+2024-04-09 02:59:29 INFO  stepDefs:264 - driver check :false
+2024-04-09 02:59:33 INFO  homePage:43 - checking :[[RemoteWebDriver: chrome on any (1211b35de663a3be0522f611af9ee32a)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:59:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1211b35de663a3be0522f611af9ee32a)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 02:59:34 INFO  uiActions:82 - Element displayed found
+2024-04-09 02:59:34 INFO  homePage:47 - Element displayed & clickable
+2024-04-09 03:14:39 INFO  stepDefs:272 - driver check :false
+2024-04-09 03:14:43 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (998c3fcaf508c259cc6ee7505412d92f)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:14:43 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (998c3fcaf508c259cc6ee7505412d92f)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:14:44 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:14:44 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:19:31 INFO  stepDefs:272 - driver check :false
+2024-04-09 03:19:34 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (4ba423d3279e02c45b62f356dad882aa)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:19:34 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (4ba423d3279e02c45b62f356dad882aa)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:19:35 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:19:35 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:19:38 INFO  stepDefs:272 - driver check :false
+2024-04-09 03:19:41 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (c2396dfd141b1f90965304561cbc91c3)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:19:41 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c2396dfd141b1f90965304561cbc91c3)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:19:41 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:19:41 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:19:45 INFO  stepDefs:272 - driver check :false
+2024-04-09 03:19:47 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (cd1ee1173ab7d28e9254bf6193d704c8)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:19:47 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cd1ee1173ab7d28e9254bf6193d704c8)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:19:47 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:19:47 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:19:51 INFO  stepDefs:272 - driver check :false
+2024-04-09 03:19:54 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (582abf5eca5569dabf96ad0a896a3538)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:19:54 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (582abf5eca5569dabf96ad0a896a3538)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:19:54 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:19:54 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:29:11 INFO  stepDefs:71 - driver check :false
+2024-04-09 03:29:14 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (7fcd47484cf46a3451e1e2829e569a28)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:29:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (7fcd47484cf46a3451e1e2829e569a28)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:29:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:29:14 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:29:36 INFO  stepDefs:95 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:29:36 INFO  stepDefs:96 - Accessibility Violation Found. Please refer to Financial Services.json at project root
+2024-04-09 03:29:36 INFO  stepDefs:99 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:29:40 INFO  stepDefs:71 - driver check :false
+2024-04-09 03:29:43 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (a59072667004ffe30dc501eb88deafb9)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:29:43 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (a59072667004ffe30dc501eb88deafb9)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:29:43 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:29:43 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:30:05 INFO  stepDefs:95 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:30:05 INFO  stepDefs:96 - Accessibility Violation Found. Please refer to Insurance.json at project root
+2024-04-09 03:30:05 INFO  stepDefs:99 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:30:09 INFO  stepDefs:71 - driver check :false
+2024-04-09 03:30:12 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (262d753c54b45e2e96c2caca1c9b6994)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:30:12 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (262d753c54b45e2e96c2caca1c9b6994)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:30:12 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:30:12 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:30:34 INFO  stepDefs:95 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:30:34 INFO  stepDefs:96 - Accessibility Violation Found. Please refer to Life and Pensions.json at project root
+2024-04-09 03:30:34 INFO  stepDefs:99 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:30:37 INFO  stepDefs:71 - driver check :false
+2024-04-09 03:30:40 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (59bb922778713383c56f6ecbe8a23f88)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:30:40 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (59bb922778713383c56f6ecbe8a23f88)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:30:41 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:30:41 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:31:02 INFO  stepDefs:95 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:31:02 INFO  stepDefs:96 - Accessibility Violation Found. Please refer to Corporations and Non-Profits.json at project root
+2024-04-09 03:31:02 INFO  stepDefs:99 - %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2024-04-09 03:33:53 INFO  stepDefs:73 - driver check :false
+2024-04-09 03:33:56 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (a727345d7c03a34c8171be5aa8c1d2dc)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:33:56 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (a727345d7c03a34c8171be5aa8c1d2dc)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 03:33:56 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:33:56 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:34:00 INFO  stepDefs:73 - driver check :false
+2024-04-09 03:34:03 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (6685c4311e8c1cf1d280e81ae65fe6b9)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:34:03 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (6685c4311e8c1cf1d280e81ae65fe6b9)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:34:03 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:34:03 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:34:07 INFO  stepDefs:73 - driver check :false
+2024-04-09 03:34:09 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (ee95098fae1ead5b24a4b83bb04152ad)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:34:09 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ee95098fae1ead5b24a4b83bb04152ad)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:34:09 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:34:09 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:34:13 INFO  stepDefs:73 - driver check :false
+2024-04-09 03:34:16 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (3316e7eea90f297f9e2bf5a64dfeb72a)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:34:16 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (3316e7eea90f297f9e2bf5a64dfeb72a)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:34:16 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:34:16 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:36:07 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:36:23 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:36:26 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (ef62029ca025470bd0af8ab03751730e)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:36:26 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ef62029ca025470bd0af8ab03751730e)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:36:26 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:36:26 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:36:30 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:36:32 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (bf97c0c92c56e7d13cafaa193aecec84)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:36:32 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (bf97c0c92c56e7d13cafaa193aecec84)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:36:32 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:36:32 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:36:36 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:36:38 INFO  homePage:47 - checking :[[RemoteWebDriver: chrome on any (a22d711bd75ddf8201f562bc81918fcc)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:36:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (a22d711bd75ddf8201f562bc81918fcc)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:36:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:36:39 INFO  homePage:51 - Element displayed & clickable
+2024-04-09 03:37:42 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:37:58 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:38:01 INFO  homePage:49 - checking :[[RemoteWebDriver: chrome on any (fc1d63ef4bc59560ba8eb6e466e215c5)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:38:01 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (fc1d63ef4bc59560ba8eb6e466e215c5)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:38:01 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:38:01 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 03:38:05 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:38:07 INFO  homePage:49 - checking :[[RemoteWebDriver: chrome on any (50ea4c57ec025a7b10fa739a74a583d1)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:38:07 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (50ea4c57ec025a7b10fa739a74a583d1)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:38:07 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:38:07 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 03:38:11 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:38:14 INFO  homePage:49 - checking :[[RemoteWebDriver: chrome on any (63b8e845ee9f25f8f628e4a4371e7695)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:38:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (63b8e845ee9f25f8f628e4a4371e7695)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:38:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:38:14 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 03:40:02 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:40:05 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 03:40:18 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:40:21 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 03:40:21 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1324cb3f40da8cb98ec380b5a5aa4744)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 03:40:21 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:40:21 INFO  homePage:52 - Element displayed & clickable
+2024-04-09 03:40:25 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:40:27 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 03:40:27 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c95b50a7ec68b6b816df74194c9efdc9)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 03:40:27 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:40:27 INFO  homePage:52 - Element displayed & clickable
+2024-04-09 03:40:30 INFO  stepDefs:69 - driver check :false
+2024-04-09 03:40:33 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 03:40:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (28c7bfc03b720aaea7f75a3dcd1d8457)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 03:40:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 03:40:33 INFO  homePage:52 - Element displayed & clickable
+2024-04-09 04:00:11 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:00:14 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:00:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (0354e615a171279d87b8a8f1d98271c1)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 04:00:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:00:20 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:00:23 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:00:23 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (6ca36c4f54c8c132bf153536e5883206)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 04:00:23 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:00:27 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:00:30 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:00:30 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (63c9a4777afb7563482b3c59830b129f)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 04:00:30 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:00:35 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:00:38 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:00:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (db0fa02226de63405f596bd969e6c2be)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 04:00:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:02:22 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:02:25 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:02:25 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (26373b07f476365301d2e8da9b2753cd)] -> xpath: .//h4[contains(text(),'Financial Services')]]
+2024-04-09 04:02:25 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:02:39 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:02:41 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:02:42 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ba0879efbdf2a1651bc1fa2e6b9d5c2e)] -> xpath: .//h4[contains(text(),'Insurance')]]
+2024-04-09 04:02:42 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:02:55 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:02:59 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:02:59 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (90d7b9d4a9c1e431521fab3b1136ea55)] -> xpath: .//h4[contains(text(),'Life and Pensions')]]
+2024-04-09 04:02:59 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:03:13 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:03:16 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:03:16 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (d806cdc40e76cd44a797297f7bbf3236)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]]
+2024-04-09 04:03:16 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:06:35 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:06:38 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:06:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (aacebfb6f8350015bb160ce6e4d8e437)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:06:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:06:45 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:06:49 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:06:52 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:06:52 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1eb129f490fed865aa9c0e6e6530b350)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:06:52 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:06:56 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:06:59 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:07:02 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:07:02 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (8f54907eee5f37b8667dfbd46fa873d9)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:07:03 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:07:12 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:07:15 INFO  stepDefs:69 - driver check :false
+2024-04-09 04:07:18 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:07:18 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b3bfc0cc5b7b26c4fa6373d0bfccbd87)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:07:18 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:07:24 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:10:21 INFO  stepDefs:73 - driver check :false
+2024-04-09 04:10:24 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:10:24 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1908345809ec826b0dc8d8da2d4daeb2)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:10:24 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:10:32 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:10:36 INFO  stepDefs:73 - driver check :false
+2024-04-09 04:10:39 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:10:39 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (938c517d7e5203956643e1e579ff7288)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:10:39 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:10:44 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:10:48 INFO  stepDefs:73 - driver check :false
+2024-04-09 04:10:51 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:10:52 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (de85d2ecb371b67d9032536683bfefe0)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:10:52 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:10:55 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 04:10:58 INFO  stepDefs:73 - driver check :false
+2024-04-09 04:11:01 INFO  homePage:48 - checking :.//h4[contains(text(),'
+2024-04-09 04:11:01 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (e6b96d6d0a444a61219d7e90be345069)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 04:11:01 INFO  uiActions:82 - Element displayed found
+2024-04-09 04:11:09 INFO  homePage:53 - Element displayed & clickable
+2024-04-09 05:10:30 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:10:35 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:10:35 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (12778b9c7d149613c79a5168f68cb9bb)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:10:35 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:10:45 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:10:50 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:10:54 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:10:54 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (6d70e1bdff5af91899d4a2b0ca0d5dc4)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:10:55 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:10:59 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:11:03 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:11:06 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:11:06 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (47dc810c9d9b11926f9394e736c6f8ac)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:11:06 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:11:14 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:11:18 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:11:21 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:11:21 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (3251334dff3682fe03502d97df5aeec2)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:11:21 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:11:28 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:11:32 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:11:38 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:11:44 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:11:51 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:12:14 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:12:18 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:12:18 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (77c520793d7c642537d557d5f66c84d8)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:12:18 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:12:26 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:12:29 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:12:33 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:12:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (748c5b43cb170a67e834f3ea40bd31c5)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:12:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:12:38 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:12:41 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:12:44 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:12:44 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cd4b144390efb82404191fd539a56ed5)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:12:44 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:12:53 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:12:57 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:00 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 05:13:00 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (5d5703cbab2fb62bc08f82c9bd49cee5)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 05:13:00 INFO  uiActions:82 - Element displayed found
+2024-04-09 05:13:06 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 05:13:10 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:15 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:22 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:29 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:34 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:40 INFO  stepDefs:73 - driver check :false
+2024-04-09 05:13:46 INFO  stepDefs:73 - driver check :false
+2024-04-09 06:09:01 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:09:04 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 06:09:04 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (7f79746cd32b81215f26f7cda44ca1e2)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 06:09:04 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:09:12 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 06:09:16 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:09:19 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (d847b08c16eab84473582c126b5cbd76)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 06:09:20 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]Financial Services')]
+2024-04-09 06:11:03 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:11:06 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 06:11:06 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (4079a42d72677121d0661b17f5c0ea02)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 06:11:06 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:15 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 06:11:19 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:11:22 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 06:11:22 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 06:11:33 INFO  homePage:114 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 06:11:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:33 INFO  homePage:119 - Element displayed & clickable
+2024-04-09 06:11:33 INFO  homePage:126 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 06:11:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:33 INFO  homePage:131 - Element displayed & clickable
+2024-04-09 06:11:33 INFO  homePage:139 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 06:11:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:33 INFO  homePage:144 - Element displayed & clickable
+2024-04-09 06:11:33 INFO  homePage:152 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 06:11:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:33 INFO  homePage:157 - Element displayed & clickable
+2024-04-09 06:11:33 INFO  homePage:165 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 06:11:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:33 INFO  homePage:170 - Element displayed & clickable
+2024-04-09 06:11:33 INFO  homePage:178 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 06:11:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 06:11:34 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:34 INFO  homePage:183 - Element displayed & clickable
+2024-04-09 06:11:34 INFO  homePage:191 - checking :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 06:11:34 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (cc9ee632fff4d92c1b27f498fbc43f9f)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 06:11:34 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:11:34 INFO  homePage:196 - Element displayed & clickable
+2024-04-09 06:25:48 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:25:53 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (7ce68605f2da534bc66412e9cc121e16)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 06:25:53 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 06:26:03 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (7ce68605f2da534bc66412e9cc121e16)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 06:26:03 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:26:03 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 06:28:57 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:29:00 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 06:29:00 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (3731193105cd1e6274b34cc134ae86b1)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 06:29:00 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:29:06 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 06:51:47 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:51:50 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 06:51:50 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (750e34f323d565679e7202a96593c81c)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 06:51:50 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:51:58 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 06:52:02 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:52:05 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (7ff60dc05fd185d087205e6c15e30525)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 06:52:05 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 06:52:15 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (7ff60dc05fd185d087205e6c15e30525)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 06:52:15 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:52:15 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 06:53:24 INFO  stepDefs:98 - driver check :false
+2024-04-09 06:53:26 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (1b509a81e9395e0f7226d8791a616432)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 06:53:27 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 06:53:37 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1b509a81e9395e0f7226d8791a616432)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 06:53:37 INFO  uiActions:82 - Element displayed found
+2024-04-09 06:53:37 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 07:05:14 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:05:17 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:05:17 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ed5dad8a1dac2af6b4a84ad7521c2ee6)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:05:17 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:05:25 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:05:29 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:05:32 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (6dc2574c9a21a83835a7f2234ac48928)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:05:33 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:05:43 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (6dc2574c9a21a83835a7f2234ac48928)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:05:43 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:05:43 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 07:06:12 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:06:15 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (f07a430965acf63471b80dd9b4a10847)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:06:16 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:06:26 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (f07a430965acf63471b80dd9b4a10847)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:06:26 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:06:26 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 07:07:23 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:07:28 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (e8d8429a6a6a6d7fe929564fabcfc467)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:07:28 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:07:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (e8d8429a6a6a6d7fe929564fabcfc467)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:07:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:07:38 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 07:09:09 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:09:14 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:09:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c2f9050ef7efaff0a6fe849038495706)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:09:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:09:23 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:09:27 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:09:32 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:09:32 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (790eb5827739b7894bea7d677812d5ff)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:09:32 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:09:38 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:09:42 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:09:45 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:09:45 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (3375a1f065b04aa68a3e74976f5a74ea)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:09:45 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:09:54 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:09:58 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:10:02 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:10:02 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (6cf40c7f1f2ff4a65b204167a2cb3244)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:10:02 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:10:09 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:10:13 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:10:16 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (7f2574e75846829f7b87d2c5a68a5256)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:10:16 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:10:27 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (7f2574e75846829f7b87d2c5a68a5256)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:10:27 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:10:27 INFO  homePage:152 - Element displayed & clickable
+2024-04-09 07:10:30 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:10:33 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (ea356403f317a84c71c706947569ce01)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:10:34 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:10:37 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:11:22 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:11:25 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:11:26 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (5687cba78f0df7a1c2c12a04c4964d0e)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:11:26 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:11:35 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:11:39 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:11:42 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:11:42 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (55a82013718517c2c48233067a5ec492)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:11:42 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:11:47 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:11:50 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:11:53 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:11:53 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (75f208b31dc845515144a182f88bfdd7)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:11:53 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:12:03 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:12:06 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:12:09 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:12:09 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (25e83b95320cba02e713fed3a360354a)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:12:09 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:12:16 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:12:20 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:12:24 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (9c7944050b959e330b708544025082b0)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:12:24 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:12:34 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (9c7944050b959e330b708544025082b0)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:12:35 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:12:38 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:12:41 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (339a17c165ae5b3b3f0a831f3dd6d7fa)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:12:41 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:12:51 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (339a17c165ae5b3b3f0a831f3dd6d7fa)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:12:51 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:12:55 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:12:58 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (bdb329b4523d0270ba6d9ad09195fdaf)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:12:59 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:13:09 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (bdb329b4523d0270ba6d9ad09195fdaf)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:13:09 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:13:12 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:13:17 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (b3c82b70abfaccfdd9adce6ce0166c91)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:13:17 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:13:27 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b3c82b70abfaccfdd9adce6ce0166c91)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:13:27 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:13:30 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:13:33 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (d838a4c13e72d4eab2dfc72407eb51ed)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:13:34 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:13:44 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (d838a4c13e72d4eab2dfc72407eb51ed)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:13:44 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:13:47 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:13:52 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (d52e6d329078689bb7214ff0c5d4e1a5)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:13:52 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:14:02 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (d52e6d329078689bb7214ff0c5d4e1a5)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:14:02 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:14:06 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:14:08 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (aad654909ae408ac41386c7672bc612a)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:14:09 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:14:19 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (aad654909ae408ac41386c7672bc612a)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:14:19 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:20:38 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:20:41 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (ddeca37bf792893709d71aa2b1add535)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:20:42 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:20:52 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ddeca37bf792893709d71aa2b1add535)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:20:52 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:20:56 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:21:00 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (b629c5bc6f765b1ac05989821ece3087)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:21:01 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:21:11 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b629c5bc6f765b1ac05989821ece3087)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:21:11 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:21:14 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:21:19 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (4506fb9b5e4181cec0b5b3b714156181)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:21:19 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:21:29 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (4506fb9b5e4181cec0b5b3b714156181)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:21:29 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:21:33 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:21:37 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (476bdaf11f831bbe9a4b7dd3b508e5c6)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:21:37 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:21:47 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (476bdaf11f831bbe9a4b7dd3b508e5c6)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:21:47 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:21:51 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:21:54 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (0baf9b2dfc2506aa503399a157d0b079)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:21:54 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:22:04 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (0baf9b2dfc2506aa503399a157d0b079)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:22:04 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:22:08 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:22:11 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (af56705c65fa1cea989105445b15488a)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:22:12 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:22:22 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (af56705c65fa1cea989105445b15488a)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:22:22 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:22:25 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:22:29 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (51840b9517bea62887b19417b23b7583)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:22:29 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:22:39 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (51840b9517bea62887b19417b23b7583)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:22:39 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:24:24 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:24:27 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (697a6b1660057f55a5799eead4d87e4e)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:24:28 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:24:28 INFO  homePage:100 - checked
+2024-04-09 07:24:38 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (697a6b1660057f55a5799eead4d87e4e)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:24:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (697a6b1660057f55a5799eead4d87e4e)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:24:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:24:41 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:24:45 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (40b38824a4e7c409da6a3e880b0473be)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:24:45 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:24:45 INFO  homePage:100 - checked
+2024-04-09 07:24:55 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (40b38824a4e7c409da6a3e880b0473be)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:24:55 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (40b38824a4e7c409da6a3e880b0473be)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:24:55 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:24:59 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:25:02 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (fafad559844dfbc7f4e39408e7be23a7)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:25:03 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:25:03 INFO  homePage:100 - checked
+2024-04-09 07:25:13 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (fafad559844dfbc7f4e39408e7be23a7)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:25:13 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (fafad559844dfbc7f4e39408e7be23a7)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:25:13 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:25:16 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:25:19 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (69228b67551dc0dbede0c9b4ae7e28ef)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:25:20 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:25:20 INFO  homePage:100 - checked
+2024-04-09 07:25:30 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (69228b67551dc0dbede0c9b4ae7e28ef)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:25:30 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (69228b67551dc0dbede0c9b4ae7e28ef)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:25:30 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:25:33 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:25:36 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (887c8fdcfb03535622f7eea6d1cabccf)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:25:37 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:25:37 INFO  homePage:100 - checked
+2024-04-09 07:25:47 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (887c8fdcfb03535622f7eea6d1cabccf)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:25:47 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (887c8fdcfb03535622f7eea6d1cabccf)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:25:47 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:25:50 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:25:54 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (3a0dd0870637dca24e13ed0551f8cb95)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:25:54 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:25:54 INFO  homePage:100 - checked
+2024-04-09 07:26:04 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (3a0dd0870637dca24e13ed0551f8cb95)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:26:04 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (3a0dd0870637dca24e13ed0551f8cb95)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:26:04 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:26:08 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:26:12 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (caa8a1dd9d26404865555b7fef176de0)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:26:13 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:26:13 INFO  homePage:100 - checked
+2024-04-09 07:26:23 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (caa8a1dd9d26404865555b7fef176de0)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:26:23 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (caa8a1dd9d26404865555b7fef176de0)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:26:23 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:29:02 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:29:06 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (46e26d3465f65a8c7499e5eac9a96184)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:29:06 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:29:06 INFO  homePage:100 - checked
+2024-04-09 07:29:16 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (46e26d3465f65a8c7499e5eac9a96184)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:29:16 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (46e26d3465f65a8c7499e5eac9a96184)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:29:16 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:30:01 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:30:04 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (32b96145112389630a4025f3b129f9ab)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:30:04 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:30:04 INFO  homePage:100 - checked
+2024-04-09 07:30:14 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (32b96145112389630a4025f3b129f9ab)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:30:14 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (32b96145112389630a4025f3b129f9ab)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:30:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:31:37 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:31:40 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (1fa238c99caa7f45d112c63430949272)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:31:40 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:31:41 INFO  homePage:100 - checked
+2024-04-09 07:31:51 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (1fa238c99caa7f45d112c63430949272)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:31:51 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (1fa238c99caa7f45d112c63430949272)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:31:51 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:31:51 INFO  homePage:153 - Element displayed & clickable
+2024-04-09 07:34:03 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:34:06 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (b74e25509dbb1962ba02bba03669d31d)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:34:06 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:34:07 INFO  homePage:100 - checked
+2024-04-09 07:34:17 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (b74e25509dbb1962ba02bba03669d31d)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:34:17 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b74e25509dbb1962ba02bba03669d31d)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:34:17 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:34:17 INFO  homePage:153 - Element displayed & clickable
+2024-04-09 07:35:31 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:35:34 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (ffebe023d42942234a8096d33ff6d599)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:35:34 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:35:34 INFO  homePage:100 - checked
+2024-04-09 07:35:44 INFO  homePage:149 - checking :[[RemoteWebDriver: chrome on any (ffebe023d42942234a8096d33ff6d599)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:35:44 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (ffebe023d42942234a8096d33ff6d599)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:35:44 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:35:44 INFO  homePage:153 - Element displayed & clickable
+2024-04-09 07:36:26 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:36:29 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (83f3f6f184fc46bcbe8dc51d59cced50)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:36:30 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:36:30 INFO  homePage:100 - checked
+2024-04-09 07:36:30 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (83f3f6f184fc46bcbe8dc51d59cced50)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:36:30 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (83f3f6f184fc46bcbe8dc51d59cced50)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:36:30 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:36:30 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:40:45 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:40:48 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (9f6d9a6721b3dbd97deef389a30f6b7f)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:40:48 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:40:48 INFO  homePage:100 - checked
+2024-04-09 07:40:48 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (9f6d9a6721b3dbd97deef389a30f6b7f)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:40:48 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (9f6d9a6721b3dbd97deef389a30f6b7f)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:40:48 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:40:48 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:20 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:24 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (766d6b870ada47f111ae803a0a24d6db)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:24 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:24 INFO  homePage:100 - checked
+2024-04-09 07:45:24 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (766d6b870ada47f111ae803a0a24d6db)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:45:24 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (766d6b870ada47f111ae803a0a24d6db)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:45:24 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:24 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:28 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:31 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (c4a6a804718905736533287d4f12ad82)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:31 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:31 INFO  homePage:100 - checked
+2024-04-09 07:45:31 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (c4a6a804718905736533287d4f12ad82)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:45:31 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c4a6a804718905736533287d4f12ad82)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:45:32 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:32 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:35 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:38 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (f6ef66d77931766f1f49fdbe539b791d)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:38 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:38 INFO  homePage:100 - checked
+2024-04-09 07:45:38 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (f6ef66d77931766f1f49fdbe539b791d)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:45:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (f6ef66d77931766f1f49fdbe539b791d)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:45:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:38 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:42 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:45 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (235b458d1c6679033c08b62d2f9536a6)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:45 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:45 INFO  homePage:100 - checked
+2024-04-09 07:45:45 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (235b458d1c6679033c08b62d2f9536a6)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:45:45 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (235b458d1c6679033c08b62d2f9536a6)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:45:45 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:45 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:49 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:51 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (b78f07623f9daccade1242176999501e)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:52 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:52 INFO  homePage:100 - checked
+2024-04-09 07:45:52 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (b78f07623f9daccade1242176999501e)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:45:52 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b78f07623f9daccade1242176999501e)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:45:52 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:52 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:45:55 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:45:58 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (8461de8909062a1ac923ff75aa8ac82a)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:45:59 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:45:59 INFO  homePage:100 - checked
+2024-04-09 07:45:59 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (8461de8909062a1ac923ff75aa8ac82a)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:45:59 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (8461de8909062a1ac923ff75aa8ac82a)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:45:59 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:45:59 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:46:02 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:46:05 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (28f884c8b633cb99ea7376252a585c8b)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:46:06 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:46:06 INFO  homePage:100 - checked
+2024-04-09 07:46:06 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (28f884c8b633cb99ea7376252a585c8b)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:46:06 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (28f884c8b633cb99ea7376252a585c8b)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:46:06 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:46:06 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:46:56 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:00 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:47:00 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (c5f22cbb4e8135cfe1925480dc99bcfe)] -> xpath: .//h4[contains(text(),'Financial Services')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:47:00 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:07 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:47:11 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:13 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:47:13 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (a6718f14252617e302fc5fa812215db2)] -> xpath: .//h4[contains(text(),'Insurance')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:47:14 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:17 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:47:21 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:24 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:47:24 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (15e1a073e64cf0367a67938d2ed4c7dd)] -> xpath: .//h4[contains(text(),'Life and Pensions')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:47:24 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:31 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:47:35 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:38 INFO  homePage:66 - checking :.//h4[contains(text(),'
+2024-04-09 07:47:38 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (d384c47a852049fc867ed52c7583dd5d)] -> xpath: .//h4[contains(text(),'Corporations and Non-Profits')]/..//a[contains(text(),'clickable area')]]
+2024-04-09 07:47:38 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:44 INFO  homePage:71 - Element displayed & clickable
+2024-04-09 07:47:47 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:50 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (770fae0be021f152ddfb2009401a9bbc)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:47:51 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:47:51 INFO  homePage:100 - checked
+2024-04-09 07:47:51 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (770fae0be021f152ddfb2009401a9bbc)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:47:51 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (770fae0be021f152ddfb2009401a9bbc)] -> xpath: .//a[contains(@href,'/financial-services/financial-crime-compliance')]]
+2024-04-09 07:47:51 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:51 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:47:54 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:47:57 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (a73dfd02f58cfe5016b341bd061364d6)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:47:57 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:47:58 INFO  homePage:100 - checked
+2024-04-09 07:47:58 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (a73dfd02f58cfe5016b341bd061364d6)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:47:58 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (a73dfd02f58cfe5016b341bd061364d6)] -> xpath: .//a[contains(@href,'/financial-services/fraud-and-identity-management')]]
+2024-04-09 07:47:58 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:47:58 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:48:01 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:48:04 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (eef1d9bf1c9ad47e0a7a8295df977ee9)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:48:04 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:48:04 INFO  homePage:100 - checked
+2024-04-09 07:48:04 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (eef1d9bf1c9ad47e0a7a8295df977ee9)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:48:05 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (eef1d9bf1c9ad47e0a7a8295df977ee9)] -> xpath: .//a[contains(@href,'/financial-services/customer-data-management')]]
+2024-04-09 07:48:05 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:48:05 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:48:08 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:48:11 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (37c830a1407d07799f54eeee5d8ac143)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:48:12 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:48:12 INFO  homePage:100 - checked
+2024-04-09 07:48:12 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (37c830a1407d07799f54eeee5d8ac143)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:48:12 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (37c830a1407d07799f54eeee5d8ac143)] -> xpath: .//a[contains(@href,'/financial-services/credit-risk-assessment')]]
+2024-04-09 07:48:12 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:48:12 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:48:15 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:48:18 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (026ac5715d9133ed7313aa7123f05574)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:48:19 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:48:19 INFO  homePage:100 - checked
+2024-04-09 07:48:19 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (026ac5715d9133ed7313aa7123f05574)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:48:19 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (026ac5715d9133ed7313aa7123f05574)] -> xpath: .//a[contains(@href,'/financial-services/collections-and-recovery')]]
+2024-04-09 07:48:19 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:48:19 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:48:22 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:48:26 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (b1737a219ae4e67d48f12bcc6564b721)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:48:26 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:48:26 INFO  homePage:100 - checked
+2024-04-09 07:48:26 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (b1737a219ae4e67d48f12bcc6564b721)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:48:26 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (b1737a219ae4e67d48f12bcc6564b721)] -> xpath: .//a[contains(@href,'/financial-services/tracing-and-investigations')]]
+2024-04-09 07:48:26 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:48:26 INFO  homePage:147 - Element displayed & clickable
+2024-04-09 07:48:30 INFO  stepDefs:98 - driver check :false
+2024-04-09 07:48:33 INFO  homePage:89 - checking :[[RemoteWebDriver: chrome on any (fb48a7191977f96346c92dd54cd80ddb)] -> xpath: .//a[contains(text(),'Choose Your Industry')]]
+2024-04-09 07:48:33 INFO  homePage:98 - checking :.//div[contains(text(),'Financial Services')]
+2024-04-09 07:48:33 INFO  homePage:100 - checked
+2024-04-09 07:48:33 INFO  homePage:143 - checking :[[RemoteWebDriver: chrome on any (fb48a7191977f96346c92dd54cd80ddb)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:48:33 INFO  uiActions:74 - Checking if element is visible :[[RemoteWebDriver: chrome on any (fb48a7191977f96346c92dd54cd80ddb)] -> xpath: .//a[contains(@href,'/financial-services/risk-orchestration')]]
+2024-04-09 07:48:33 INFO  uiActions:82 - Element displayed found
+2024-04-09 07:48:33 INFO  homePage:147 - Element displayed & clickable

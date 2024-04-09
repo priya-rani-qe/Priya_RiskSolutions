@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="11" skipped="0" total="11">
+    <suite duration-ms="101176" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="101176" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="To check the links in home page">
+                <test-method duration-ms="14436" finished-at="2024-04-09T02:17:08.126147700Z" name="To Verify different links are available and clickable in home page" started-at="2024-04-09T02:16:53.679790300Z" status="PASS"/>
+                <test-method duration-ms="10723" finished-at="2024-04-09T02:17:18.883134200Z" name="To Verify different links are available and clickable in home page_2" started-at="2024-04-09T02:17:08.143047400Z" status="PASS"/>
+                <test-method duration-ms="13841" finished-at="2024-04-09T02:17:32.750362900Z" name="To Verify different links are available and clickable in home page_3" started-at="2024-04-09T02:17:18.896654100Z" status="PASS"/>
+                <test-method duration-ms="12424" finished-at="2024-04-09T02:17:45.182608700Z" name="To Verify different links are available and clickable in home page_4" started-at="2024-04-09T02:17:32.758384100Z" status="PASS"/>
+                <test-method duration-ms="6856" finished-at="2024-04-09T02:17:52.056793900Z" name="To Verify different sub-Industries are available and clickable under Financial Services" started-at="2024-04-09T02:17:45.198257500Z" status="PASS"/>
+                <test-method duration-ms="6872" finished-at="2024-04-09T02:17:58.951323Z" name="To Verify different sub-Industries are available and clickable under Financial Services_2" started-at="2024-04-09T02:17:52.074931200Z" status="PASS"/>
+                <test-method duration-ms="6898" finished-at="2024-04-09T02:18:05.850932Z" name="To Verify different sub-Industries are available and clickable under Financial Services_3" started-at="2024-04-09T02:17:58.951323Z" status="PASS"/>
+                <test-method duration-ms="7293" finished-at="2024-04-09T02:18:13.162471600Z" name="To Verify different sub-Industries are available and clickable under Financial Services_4" started-at="2024-04-09T02:18:05.866469100Z" status="PASS"/>
+                <test-method duration-ms="7218" finished-at="2024-04-09T02:18:20.397853Z" name="To Verify different sub-Industries are available and clickable under Financial Services_5" started-at="2024-04-09T02:18:13.177830900Z" status="PASS"/>
+                <test-method duration-ms="7318" finished-at="2024-04-09T02:18:27.730854700Z" name="To Verify different sub-Industries are available and clickable under Financial Services_6" started-at="2024-04-09T02:18:20.411438800Z" status="PASS"/>
+                <test-method duration-ms="6881" finished-at="2024-04-09T02:18:34.630821900Z" name="To Verify different sub-Industries are available and clickable under Financial Services_7" started-at="2024-04-09T02:18:27.747641800Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
